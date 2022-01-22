@@ -1,6 +1,6 @@
 # Hi there 👋
-## I'm Tippi from Taiwan!!!
-## 🔭 Currently studing in [National Yang Ming Chao Tung University](https://www.nycu.edu.tw/)
+## I'm Tippi 梁文熏 from Taiwan !!!
+## Currently studing in [National Yang Ming Chao Tung University](https://www.nycu.edu.tw/)🔭
 
 ### My hobbies:
 - doing sports (espacially volleybal🏐)
@@ -26,7 +26,8 @@
    ### During the trip, we joined the Haarlem Jamborate 🏕️for about 15 days.
    ![S__32874522](https://user-images.githubusercontent.com/98199306/150645746-08c61613-c8a9-4c3b-9083-04d235d87b88.jpg)
 
-## I am very thankful for all the experiences I've gone through! 
+
+## I am very thankful for all the experiences I've gone through and will keep trying different things in the future ! 
   
 <!--
 **this is a bold text**   this is not a bold text
